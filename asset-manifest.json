@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ProSinth/static/css/main.3a7609ab.css",
+    "main.js": "/ProSinth/static/js/main.07368538.js",
+    "static/js/787.f13982d6.chunk.js": "/ProSinth/static/js/787.f13982d6.chunk.js",
+    "static/media/logo.svg": "/ProSinth/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProSinth/index.html",
+    "main.3a7609ab.css.map": "/ProSinth/static/css/main.3a7609ab.css.map",
+    "main.07368538.js.map": "/ProSinth/static/js/main.07368538.js.map",
+    "787.f13982d6.chunk.js.map": "/ProSinth/static/js/787.f13982d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a7609ab.css",
+    "static/js/main.07368538.js"
+  ]
+}
