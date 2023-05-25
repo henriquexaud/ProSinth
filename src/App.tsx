@@ -19,7 +19,13 @@ function App() {
 
   const handleSubmit = (event: React.FormEvent) => {
     event.preventDefault();
-    iniciarProcesso();
+    if (sequencia === "CAAT") {
+      iniciarProcesso();
+    } else {
+      setIsHiden(true);
+      setMensagens(() => ["Fator de transcrição inválido"]);
+      setShowButton(true);
+    }
   };
 
   const iniciarProcesso = () => {
