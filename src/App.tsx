@@ -148,6 +148,7 @@ function App() {
           >
             <Form.Group controlId="exampleForm.ControlInput1">
               <Form.Control
+                style={{ minWidth: 300 }}
                 type="text"
                 value={sequencia}
                 onChange={handleInputChange}
